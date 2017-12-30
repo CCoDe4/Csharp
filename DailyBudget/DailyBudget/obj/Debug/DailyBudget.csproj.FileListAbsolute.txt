@@ -1,0 +1,12 @@
+D:\Мои\IT\Programming Projects\C#\DailyBudget\DailyBudget\bin\Debug\DailyBudget.exe.config
+D:\Мои\IT\Programming Projects\C#\DailyBudget\DailyBudget\bin\Debug\DailyBudget.exe
+D:\Мои\IT\Programming Projects\C#\DailyBudget\DailyBudget\bin\Debug\DailyBudget.pdb
+D:\Мои\IT\Programming Projects\C#\DailyBudget\DailyBudget\obj\Debug\DailyBudget.csprojResolveAssemblyReference.cache
+D:\Мои\IT\Programming Projects\C#\DailyBudget\DailyBudget\obj\Debug\DailyBudget.main.resources
+D:\Мои\IT\Programming Projects\C#\DailyBudget\DailyBudget\obj\Debug\DailyBudget.Properties.Resources.resources
+D:\Мои\IT\Programming Projects\C#\DailyBudget\DailyBudget\obj\Debug\DailyBudget.csproj.GenerateResource.Cache
+D:\Мои\IT\Programming Projects\C#\DailyBudget\DailyBudget\obj\Debug\DailyBudget.csproj.CoreCompileInputs.cache
+D:\Мои\IT\Programming Projects\C#\DailyBudget\DailyBudget\obj\Debug\DailyBudget.exe
+D:\Мои\IT\Programming Projects\C#\DailyBudget\DailyBudget\obj\Debug\DailyBudget.pdb
+D:\Мои\IT\Programming Projects\C#\DailyBudget\DailyBudget\bin\Debug\MainDB.mdf
+D:\Мои\IT\Programming Projects\C#\DailyBudget\DailyBudget\bin\Debug\MainDB_log.ldf
