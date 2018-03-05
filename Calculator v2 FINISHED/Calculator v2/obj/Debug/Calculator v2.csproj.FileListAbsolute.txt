@@ -1,0 +1,40 @@
+C:\Users\Goran-PC\source\repos\Calculator v2\Calculator v2\bin\Debug\Calculator v2.exe.config
+C:\Users\Goran-PC\source\repos\Calculator v2\Calculator v2\bin\Debug\Calculator v2.exe
+C:\Users\Goran-PC\source\repos\Calculator v2\Calculator v2\bin\Debug\Calculator v2.pdb
+C:\Users\Goran-PC\source\repos\Calculator v2\Calculator v2\obj\Debug\Calculator v2.csprojResolveAssemblyReference.cache
+C:\Users\Goran-PC\source\repos\Calculator v2\Calculator v2\obj\Debug\Calculator_v2.Form1.resources
+C:\Users\Goran-PC\source\repos\Calculator v2\Calculator v2\obj\Debug\Calculator_v2.Properties.Resources.resources
+C:\Users\Goran-PC\source\repos\Calculator v2\Calculator v2\obj\Debug\Calculator v2.csproj.GenerateResource.Cache
+C:\Users\Goran-PC\source\repos\Calculator v2\Calculator v2\obj\Debug\Calculator v2.csproj.CoreCompileInputs.cache
+C:\Users\Goran-PC\source\repos\Calculator v2\Calculator v2\obj\Debug\Calculator v2.exe
+C:\Users\Goran-PC\source\repos\Calculator v2\Calculator v2\obj\Debug\Calculator v2.pdb
+C:\Users\Administrator\Downloads\Csharp-master\Calculator v2\Calculator v2\bin\Debug\Calculator v2.exe.config
+C:\Users\Administrator\Downloads\Csharp-master\Calculator v2\Calculator v2\bin\Debug\Calculator v2.exe
+C:\Users\Administrator\Downloads\Csharp-master\Calculator v2\Calculator v2\bin\Debug\Calculator v2.pdb
+C:\Users\Administrator\Downloads\Csharp-master\Calculator v2\Calculator v2\obj\Debug\Calculator v2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Csharp-master\Calculator v2\Calculator v2\obj\Debug\Calculator_v2.Form1.resources
+C:\Users\Administrator\Downloads\Csharp-master\Calculator v2\Calculator v2\obj\Debug\Calculator_v2.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Csharp-master\Calculator v2\Calculator v2\obj\Debug\Calculator v2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\Csharp-master\Calculator v2\Calculator v2\obj\Debug\Calculator v2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Csharp-master\Calculator v2\Calculator v2\obj\Debug\Calculator v2.exe
+C:\Users\Administrator\Downloads\Csharp-master\Calculator v2\Calculator v2\obj\Debug\Calculator v2.pdb
+D:\Мои\IT\Programming\Programming Projects\C#\Calculator v2\Calculator v2\bin\Debug\Calculator v2.exe.config
+D:\Мои\IT\Programming\Programming Projects\C#\Calculator v2\Calculator v2\bin\Debug\Calculator v2.exe
+D:\Мои\IT\Programming\Programming Projects\C#\Calculator v2\Calculator v2\bin\Debug\Calculator v2.pdb
+D:\Мои\IT\Programming\Programming Projects\C#\Calculator v2\Calculator v2\obj\Debug\Calculator v2.csprojResolveAssemblyReference.cache
+D:\Мои\IT\Programming\Programming Projects\C#\Calculator v2\Calculator v2\obj\Debug\Calculator_v2.Form1.resources
+D:\Мои\IT\Programming\Programming Projects\C#\Calculator v2\Calculator v2\obj\Debug\Calculator_v2.Properties.Resources.resources
+D:\Мои\IT\Programming\Programming Projects\C#\Calculator v2\Calculator v2\obj\Debug\Calculator v2.csproj.GenerateResource.Cache
+D:\Мои\IT\Programming\Programming Projects\C#\Calculator v2\Calculator v2\obj\Debug\Calculator v2.csproj.CoreCompileInputs.cache
+D:\Мои\IT\Programming\Programming Projects\C#\Calculator v2\Calculator v2\obj\Debug\Calculator v2.exe
+D:\Мои\IT\Programming\Programming Projects\C#\Calculator v2\Calculator v2\obj\Debug\Calculator v2.pdb
+C:\Users\Administrator\Downloads\Calculator v2\Calculator v2\bin\Debug\Calculator v2.exe.config
+C:\Users\Administrator\Downloads\Calculator v2\Calculator v2\bin\Debug\Calculator v2.exe
+C:\Users\Administrator\Downloads\Calculator v2\Calculator v2\bin\Debug\Calculator v2.pdb
+C:\Users\Administrator\Downloads\Calculator v2\Calculator v2\obj\Debug\Calculator v2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Calculator v2\Calculator v2\obj\Debug\Calculator_v2.Form1.resources
+C:\Users\Administrator\Downloads\Calculator v2\Calculator v2\obj\Debug\Calculator_v2.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Calculator v2\Calculator v2\obj\Debug\Calculator v2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\Calculator v2\Calculator v2\obj\Debug\Calculator v2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Calculator v2\Calculator v2\obj\Debug\Calculator v2.exe
+C:\Users\Administrator\Downloads\Calculator v2\Calculator v2\obj\Debug\Calculator v2.pdb
